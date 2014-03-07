@@ -67,7 +67,7 @@ id sem consectetuer libero luctus adipiscing.
         }
     </script>
     
-```
+```javascript
 // Foo
 var bar = 0;
 ```
